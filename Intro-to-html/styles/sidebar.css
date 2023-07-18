@@ -1,0 +1,17 @@
+.sidebar {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  top: 55px;
+  background-color: white;
+  width: 100px;
+}
+
+.sidebar-link {
+  height: 100px;
+  margin-bottom: 1px;
+}
+
+.sidebar-link:hover {
+  background-color: rgb(240, 240, 240);
+}
